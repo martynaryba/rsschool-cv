@@ -44,7 +44,6 @@ Level: B2+ (Upper-Intermediate)
 Since high school I had an extended English program, so I gained a B2 certificate quite early. I had the opportunity to practice my communication skills while studying abroad, as well as during my work in the US.
 
 
-
 ## Code Examples
 
 __HTML__
@@ -161,7 +160,6 @@ nav li {
   width: 80px;
 
 ```
-
 
 __Phyton: Hangman__
 
