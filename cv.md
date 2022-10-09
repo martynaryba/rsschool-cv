@@ -16,7 +16,6 @@ Currently, despite of lack of experience with commercial programming, I was able
 * Complex Problem-Solving
 * Communication
 * Analytical thinking and innovation
-* Adaptability
 * Active learning and learning strategies
 
 # Technical Skills
